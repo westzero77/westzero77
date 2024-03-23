@@ -3,7 +3,7 @@
 ## Hello! I'm Lee SeoYoung
 
 안녕하세요. 꾸준히 공부하고 성장하고 있는 개발자 이서영입니다.
-<br><br>
+<br>
 
 ### 🌸 Blog 🌸
 <a href="https://baby-hippo.github.io" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-FFADC9?style=flat-square&logo=github&logoColor=white"/></a>
