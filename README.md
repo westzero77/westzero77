@@ -9,12 +9,6 @@
 <a href="https://baby-hippo.github.io" target="_blank"><img src="https://img.shields.io/badge/Tech Blog-FFADC9?style=flat-square&logo=github&logoColor=white"/></a>
 <br>
 
-### 🛠️ License 🛠️
-정보처리기사
-<br>
-리눅스마스터 2급
-<br>
-
 ### 🌼 Skill 🌼
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
