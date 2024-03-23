@@ -1,8 +1,8 @@
 <div align="center">
   
-## Hello! I'm Lee SeoYoung
+# Hello! I'm Lee SeoYoung
 
-안녕하세요. 꾸준히 공부하고 성장하고 있는 개발자 이서영입니다.
+안녕하세요. 꾸준히 공부하고 성장하고 있는 개발자입니다.
 <br>
 
 ### 🌸 Blog 🌸
